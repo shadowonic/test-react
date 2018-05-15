@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+ul{
+  display: flex;
+  flex-direction: column;
+  max-width: 30%;
+}
+li{
+  display: flex;
+  padding: 5px;
+  border: 2px;
+}
+.image{
+  max-width: 50px;
+}
+img{
+  width: 100%;
+}
+.userName{
+  margin: 5px;
+}
